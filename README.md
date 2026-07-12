@@ -36,27 +36,13 @@
 ## 🚩 Projects:
   | Name                | Link                                                    | Description                                                                                 |
   |---------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------|
-  | Unlockis            | https://github.com/Evaninoo/Unlockis                    | Unlockis is an horror video game, PS2/PSX style, focused on riddles. Made with Unity.       |
-  | Unlockis Website    | https://unlockis.fr/                                    | Unlockis official website                                                                   |
-  | OCR-Solver          | https://github.com/Evaninoo/OCR_Solver                  | Optical Character Recognition software who solves a hidden word puzzle.                     |
-  | Vif                 | Coming Soon !                                           | Vim-like terminal code editor with modes, shortcuts, syntax highlighting, auto-completion.  |
-  | ARVR-Proj           | https://github.com/Evaninoo/ARVR-Proj                   | A little video game in Augmented Reality, for Android devices. Made with Unity.             |
-  | Trie_Struct         | https://github.com/Evaninoo/Trie_Struct                 | Implementation of Trie data structure in C.                                                 |
-  | Jaya RP             | Depecrated                                              | A french Grand Theft Auto V Roleplay server created by my own.                              |
-  | Anti-Thread         | https://github.com/Evaninoo/anti-thread                 | Keep safe your Discord server against a raid by threads creation.                           |
-  | Atom                | https://github.com/Evaninoo/Atom                        | Atom is a Discord certified bot that allows you to manage voice activity in your server.    |
+  
 
-## 🙂 Friends:
-- [Andrei](https://github.com/android-varx)
-- [Derpinou](https://github.com/Derpinou)
-- [Tom](https://github.com/Fubaara)
-- [yaluvie](https://github.com/yaluvie)
-- [Sayt0](https://github.com/Sayt-0)
 
 </br></br>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Evaninoo&theme=dracula&border_radius=40&locale=fr" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-puce-theta.vercel.app?user=BomengoD&theme=merko" alt="GitHub Streak" /></a>
 </div>
 <!---
 BomengoD/BomengoD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
