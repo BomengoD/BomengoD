@@ -13,7 +13,7 @@
 </div>
 
 ## 🌍 Programming languages:
-![](https://skillicons.dev/icons?i=c,cs,cpp,java,py,js,html,x&theme=dark)
+![](https://skillicons.dev/icons?i=c,cs,cpp,java,py,ts,html,x&theme=dark)
 
 ## ⚙️ Programming Tools:
 ![](https://skillicons.dev/icons?i=github,git,nodejs,vscode,visualstudio,docker,x&theme=dark)  
