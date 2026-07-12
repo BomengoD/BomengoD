@@ -5,34 +5,34 @@
 - 🥖 I live and study in Amiens (France)  
 
 
-## 💻 My Discord Profile:
+## My Discord Profile:
 <div align="center">
   
   [![Discord Presence](https://lanyard.cnrad.dev/api/260105887266373632)](https://discord.com/users/260105887266373632)
   
 </div>
 
-## 🌍 Programming languages:
+## Programming languages:
 ![](https://skillicons.dev/icons?i=c,cs,cpp,java,py,ts,html,x&theme=dark)
 
-## ⚙️ Programming Tools:
+## Programming Tools:
 ![](https://skillicons.dev/icons?i=github,git,nodejs,vscode,visualstudio,docker,x&theme=dark)  
 ![](https://skillicons.dev/icons?i=mysql,postgres,npm,dotnet,vim,x&theme=dark)
 
-## 📑 Currently Learning:
+## Currently Learning:
 ![](https://skillicons.dev/icons?i=rust,hibernate,spring,x&theme=dark)
 
 
-## 🪛 Other Knowledge :
+## Other Knowledge :
 ![](https://skillicons.dev/icons?i=figma,anaconda,bash,notion,powershell,latex,x&theme=dark)
 
-## 🔧 OS:
+## OS:
 ![](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,x&theme=dark)
 
 ## Connect with me :
 [![](https://skillicons.dev/icons?i=linkedin,x&theme=dark)](https://www.linkedin.com/in/ruben-boussa/)
 
-## 🚩 Projects:
+## Projects:
   | Name                | Link                                                    | Description                                                                                 |
   |---------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------|
   
