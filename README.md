@@ -20,7 +20,7 @@
 ![](https://skillicons.dev/icons?i=mysql,postgres,npm,dotnet,vim,x&theme=dark)
 
 ## 📑 Currently Learning:
-![](https://skillicons.dev/icons?i=rust,x&theme=dark)
+![](https://skillicons.dev/icons?i=rust,hibernate,spring,x&theme=dark)
 
 
 ## 🪛 Other Knowledge :
