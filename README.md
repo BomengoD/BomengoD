@@ -16,8 +16,8 @@
 ![](https://skillicons.dev/icons?i=c,cs,cpp,java,py,js,ts,x&theme=dark)
 
 ## Programming Tools:
-![](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,docker,x&theme=dark)  
-![](https://skillicons.dev/icons?i=mysql,postgres,npm,dotnet,vim,azure,reactx&theme=dark)
+![](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,docker,eclipse,x&theme=dark)  
+![](https://skillicons.dev/icons?i=mysql,postgres,npm,dotnet,vim,azure,react,x&theme=dark)
 
 ## Currently Learning:
 ![](https://skillicons.dev/icons?i=rust,nodejs,x&theme=dark)
