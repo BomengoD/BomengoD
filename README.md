@@ -13,14 +13,14 @@
 </div>
 
 ## Programming languages:
-![](https://skillicons.dev/icons?i=c,cs,cpp,java,py,ts,x&theme=dark)
+![](https://skillicons.dev/icons?i=c,cs,cpp,java,py,js,ts,x&theme=dark)
 
 ## Programming Tools:
-![](https://skillicons.dev/icons?i=github,git,nodejs,vscode,visualstudio,docker,x&theme=dark)  
-![](https://skillicons.dev/icons?i=mysql,postgres,npm,dotnet,vim,x&theme=dark)
+![](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,docker,x&theme=dark)  
+![](https://skillicons.dev/icons?i=mysql,postgres,npm,dotnet,vim,azure,reactx&theme=dark)
 
 ## Currently Learning:
-![](https://skillicons.dev/icons?i=rust,hibernate,spring,x&theme=dark)
+![](https://skillicons.dev/icons?i=rust,nodejs,x&theme=dark)
 
 
 ## Other Knowledge :
