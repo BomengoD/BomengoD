@@ -1,6 +1,6 @@
 ### Hi, I'm Ruben. I'm a computer science student at IUT d'Amiens.
 
-- 🔭 I'm crurrently studying at [IUT d'Amiens](https://www.iut-amiens.fr/).
+- 🔭 I'm currently studying at [IUT d'Amiens](https://www.iut-amiens.fr/).
 - 📫 How to reach me: [Mail](mailto:ruben.boussa@gmail.com).
 - 🥖 I live and study in Amiens (France)  
 
