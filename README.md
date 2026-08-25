@@ -31,12 +31,7 @@
 
 ## Connect with me :
 [![](https://skillicons.dev/icons?i=linkedin,x&theme=dark)](https://www.linkedin.com/in/ruben-boussa/)
-
-## Projects:
-  | Name                | Link                                                    | Description                                                                                 |
-  |---------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------|
   
-
 
 </br></br>
 
