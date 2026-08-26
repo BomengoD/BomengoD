@@ -1,9 +1,7 @@
 ### Hi, I'm Ruben. I'm a computer science student at IUT d'Amiens.
 
 - 🔭 I'm currently studying at [IUT d'Amiens](https://www.iut-amiens.fr/).
-- 📫 How to reach me: [Mail](mailto:ruben.boussa@gmail.com).
-- 🥖 I live and study in Amiens (France)  
-
+- 📫 How to reach me: [Mail](mailto:ruben.boussa@gmail.com).  
 
 ## My Discord Profile:
 <div align="center">
@@ -17,10 +15,10 @@
 
 ## Programming Tools:
 ![](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,docker,eclipse,x&theme=dark)  
-![](https://skillicons.dev/icons?i=mysql,postgres,npm,dotnet,vim,azure,react,x&theme=dark)
+![](https://skillicons.dev/icons?i=mysql,postgres,npm,dotnet,vim,azure,x&theme=dark)
 
 ## Currently Learning:
-![](https://skillicons.dev/icons?i=rust,nodejs,x&theme=dark)
+![](https://skillicons.dev/icons?i=rust,nodejs,react,x&theme=dark)
 
 
 ## Other Knowledge :
