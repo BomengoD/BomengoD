@@ -15,10 +15,10 @@
 
 ## Programming Tools:
 ![](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,docker,eclipse,x&theme=dark)  
-![](https://skillicons.dev/icons?i=mysql,postgres,npm,dotnet,vim,azure,x&theme=dark)
+![](https://skillicons.dev/icons?i=mysql,postgres,npm,dotnet,vim,x&theme=dark)
 
 ## Currently Learning:
-![](https://skillicons.dev/icons?i=rust,nodejs,react,x&theme=dark)
+![](https://skillicons.dev/icons?i=rust,nodejs,react,azure,x&theme=dark)
 
 
 ## Other Knowledge :
