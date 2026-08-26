@@ -18,7 +18,7 @@
 ![](https://skillicons.dev/icons?i=mysql,postgres,npm,dotnet,vim,x&theme=dark)
 
 ## Currently Learning:
-![](https://skillicons.dev/icons?i=rust,nodejs,react,azure,x&theme=dark)
+![](https://skillicons.dev/icons?i=rust,nodejs,react,azure,kafka,x&theme=dark)
 
 
 ## Other Knowledge :
