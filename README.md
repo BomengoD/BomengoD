@@ -14,18 +14,18 @@
 ![](https://skillicons.dev/icons?i=c,cs,cpp,java,py,js,ts,x&theme=dark)
 
 ## Programming Tools:
-![](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,docker,eclipse,x&theme=dark)  
-![](https://skillicons.dev/icons?i=mysql,postgres,npm,dotnet,vim,x&theme=dark)
+![](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,idea,eclipse,x&theme=dark)  
+![](https://skillicons.dev/icons?i=mysql,npm,dotnet,vim,nextjs,docker,x&theme=dark)
 
 ## Currently Learning:
-![](https://skillicons.dev/icons?i=rust,nodejs,react,azure,kafka,x&theme=dark)
+![](https://skillicons.dev/icons?i=go,react,kafka,postgres,x&theme=dark)
 
 
 ## Other Knowledge :
-![](https://skillicons.dev/icons?i=figma,anaconda,bash,notion,powershell,latex,x&theme=dark)
+![](https://skillicons.dev/icons?i=figma,bash,notion,powershell,latex,php,x&theme=dark)
 
 ## OS:
-![](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,x&theme=dark)
+![](https://skillicons.dev/icons?i=windows,linux,ubuntu,x&theme=dark)
 
 ## Connect with me :
 [![](https://skillicons.dev/icons?i=linkedin,x&theme=dark)](https://www.linkedin.com/in/ruben-boussa/)
